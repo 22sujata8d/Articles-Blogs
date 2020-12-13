@@ -1,4 +1,4 @@
-# Articles
+# Articles / Blogs
 Articles and blogs Collection which I find very interesting from diverse fields.
 
 * [Securing The Post-Quantum World](https://blog.cloudflare.com/securing-the-post-quantum-world/)<br>
